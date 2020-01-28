@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91f817e9-c024-4b45-a8e8-595970a16171" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectId" id="1WOeu8joxbEzn5vzth2VGl7H36E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="TexifyConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="LATEX_RUN_CONFIGURATION" factoryName="LaTeX configuration factory" temporary="true">
+      <texify>
+        <compiler>PDFLATEX</compiler>
+        <compiler-path />
+        <sumatra-path />
+        <viewer-command />
+        <compiler-arguments />
+        <main-file>$PROJECT_DIR$/src/main.tex</main-file>
+        <aux-dir>false</aux-dir>
+        <out-dir>true</out-dir>
+        <compile-twice>false</compile-twice>
+        <output-format>PDF</output-format>
+        <has-been-run>true</has-been-run>
+        <bib-run-config />
+        <makeindex-run-config />
+      </texify>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="LaTeX.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91f817e9-c024-4b45-a8e8-595970a16171" name="Default Changelist" comment="" />
+      <created>1579025287589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579025287589</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="554" y="160" width="802" height="676" key="#Project_Structure" timestamp="1579026385284">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="554" y="160" width="802" height="676" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1579026385284" />
+    <state x="468" y="152" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579030015661">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="416" y="128" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1579026428055" />
+    <state x="468" y="152" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579030015661" />
+    <state width="1807" height="214" key="GridCell.Tab.0.bottom" timestamp="1579039513451">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1876" height="248" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1579029560449" />
+    <state width="1807" height="214" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579039513451" />
+    <state width="1807" height="214" key="GridCell.Tab.0.center" timestamp="1579039513450">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1876" height="248" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1579029560448" />
+    <state width="1807" height="214" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579039513450" />
+    <state width="1807" height="214" key="GridCell.Tab.0.left" timestamp="1579039513450">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1876" height="248" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1579029560447" />
+    <state width="1807" height="214" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579039513450" />
+    <state width="1807" height="214" key="GridCell.Tab.0.right" timestamp="1579039513450">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1876" height="248" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1579029560448" />
+    <state width="1807" height="214" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579039513450" />
+    <state x="898" y="102" key="SettingsEditor" timestamp="1579030000388">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="910" y="77" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1579029356600" />
+    <state x="898" y="102" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1579030000388" />
+    <state x="789" y="210" width="432" height="604" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1579036732765">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="748" y="188" width="413" height="619" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1579028192431" />
+    <state x="789" y="210" width="432" height="604" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1579036732765" />
+    <state x="1132" y="240" width="672" height="662" key="search.everywhere.popup" timestamp="1579030287749">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="1103" y="218" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1579029337145" />
+    <state x="1132" y="240" width="672" height="662" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1579030287749" />
+  </component>
+</project>

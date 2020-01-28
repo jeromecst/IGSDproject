@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jerome/ProjetIG2/main5.cpp
+stdio.h
+-
+string
+-
+vector
+-
+iostream
+-
+fstream
+-
+algorithm
+-
+stdlib.h
+-
+string.h
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+OpenGL/gl.h
+-
+GL/gl.h
+-
+glm/glm.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+glm/gtc/constants.hpp
+-
+glm/gtc/type_ptr.hpp
+-
+

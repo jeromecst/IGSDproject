@@ -1,0 +1,11 @@
+#version 330 core
+
+smooth in float depth;
+smooth in vec3 colort;
+
+out vec4 color;
+
+void main(){
+  color = vec4(colort.r, colort.g, colort.b, 1.0);
+  gl_FragDepth = 1.0-depth/10.0;   
+}

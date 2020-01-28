@@ -1,0 +1,13 @@
+\contentsline {chapter}{Introduction}{2}{chapter*.2}
+\contentsline {chapter}{\numberline {1}Donn\IeC {\'e}es}{3}{chapter.1}
+\contentsline {chapter}{\numberline {2}Mod\IeC {\`e}le 3D}{4}{chapter.2}
+\contentsline {section}{\numberline {2.1}Cr\IeC {\'e}ation des courbes et "S"}{4}{section.2.1}
+\contentsline {section}{\numberline {2.2}Arcs de cercle}{4}{section.2.2}
+\contentsline {chapter}{\numberline {3}Couleur et ombrage}{6}{chapter.3}
+\contentsline {section}{\numberline {3.1}Interpolation}{6}{section.3.1}
+\contentsline {section}{\numberline {3.2}Non croisement}{7}{section.3.2}
+\contentsline {chapter}{\numberline {4}Int\IeC {\'e}raction}{8}{chapter.4}
+\contentsline {section}{\numberline {4.1}Cam\IeC {\'e}ra 2D}{8}{section.4.1}
+\contentsline {section}{\numberline {4.2}Cam\IeC {\'e}ra 3D}{8}{section.4.2}
+\contentsline {section}{\numberline {4.3}Selection d'une \IeC {\'e}quipe}{8}{section.4.3}
+\contentsline {section}{Autre}{8}{section*.9}
